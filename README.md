@@ -9,6 +9,5 @@ The primary goal is to accurately predict whether an individual's income falls a
 
 ## Tools
 
-Python for Data Cleaning, Data Transformation, Data Visualisation and Data Analysis. 
+Python for Data Cleaning, Data Transformation, Data Visualisation and Data Analysis. The libraries used are pandas, numpy, seaborn, matplotlib, and sklearn.
 
-## Data Set
